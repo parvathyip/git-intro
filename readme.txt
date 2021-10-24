@@ -7,3 +7,4 @@ l5
 l6
 m7
 
+simple commands to learn git
